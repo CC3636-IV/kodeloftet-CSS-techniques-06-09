@@ -80,6 +80,6 @@ button:hover:before {
 }
 
 button:active:before {
-  background: #3a0ca3;
+  background: var(--secondary);
   transition: background 0s;
 }
